@@ -3,7 +3,7 @@ class School
   attr_accessor :name, :roster, :grade 
   attr_reader :school
   
-  def school 
+  def intialize(school) 
     @school = school
   
   def intialize(name)
