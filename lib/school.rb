@@ -1,4 +1,7 @@
 # code here!
 class School
-  school = School.new("Bayside High School")
-  school
+  
+  def intialize(name)
+  @name = name 
+end 
+end
