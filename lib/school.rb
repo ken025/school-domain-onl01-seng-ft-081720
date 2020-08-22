@@ -16,3 +16,5 @@ def add_student(student, level)
   roster[grade] << name
 end 
 end
+
+School.new
