@@ -7,5 +7,6 @@ class School
   @roster = roster{}
 end 
 
-def add_student("Zach Morris", 9)
+def add_student(student, level)
+  school.add_student("Zach Morris", 9)
 end 
