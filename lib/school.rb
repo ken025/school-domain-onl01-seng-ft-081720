@@ -12,5 +12,5 @@ class School
 end 
 
 def add_student(student, level)
-  school.add_student("Zach Morris", 9)
+  roster[grade]
 end 
